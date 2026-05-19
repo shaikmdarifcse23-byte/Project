@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+backend/audio/upload_*
+backend/vectorstore/*
+!.gitkeep
+api.log
+api.err
+vite.log
+vite.err
